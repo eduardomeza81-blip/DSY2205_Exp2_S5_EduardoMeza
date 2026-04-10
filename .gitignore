@@ -1,0 +1,17 @@
+Wallet_A8QYE6TA3DEUCH8T/
+
+**/target/
+**/.settings/
+**/.classpath
+**/.project
+**/.idea/
+**/.vscode/
+
+**/node_modules/
+**/dist/
+**/.angular/
+
+*.log
+*.jar
+*.pdf
+*.docx
