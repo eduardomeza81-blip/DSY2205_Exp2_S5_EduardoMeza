@@ -1,2 +1,0 @@
-Para levantar Docker usuarios
-docker run -d -p 8081:8081 --name ms-usuarios -v "C:\Ingenieria\DSY2205\Exp1_S2\Wallet_A8QYE6TA3DEUCH8T:/app/wallet" microservicio-usuarios
